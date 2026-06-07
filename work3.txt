@@ -1,9 +1,8 @@
 2
-
-2
 const menuItems = [
     { id: 1, title: '홈', path: '/' },
     { id: 2, title: '소개', path: '/about' },
     { id: 3, title: '제품', path: '/products' },
-    { id: 4, title: '마이페이지', path: '/mypage' }, 
+    { id: 4, title: '로그아웃', path: '/logout' },   
+    { id: 5, title: '마이페이지', path: '/mypage' }, 
 ]
